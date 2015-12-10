@@ -1,0 +1,85 @@
+
+____________________________________________
+Feature food_type (0) distributions:
+carnivore: 44 | 41.50%
+vegetarian: 51 | 48.11%
+vegan: 11 | 10.37%
+____________________________________________
+Feature allergies (1) distributions:
+yes: 4 | 26.66%
+no: 11 | 73.33%
+____________________________________________
+Feature breakfast_freq (2) distributions:
+always: 6 | 12.0%
+sometimes: 11 | 22.0%
+never: 33 | 66.0%
+____________________________________________
+Feature lunch_freq (3) distributions:
+always: 16 | 27.11%
+sometimes: 33 | 55.93%
+never: 10 | 16.94%
+____________________________________________
+Feature dinner_freq (4) distributions:
+always: 4 | 8.0%
+sometimes: 28 | 56.0%
+never: 18 | 36.0%
+____________________________________________
+Feature variety_happiness (5) distributions:
+yes: 21 | 39.62%
+no: 32 | 60.37%
+____________________________________________
+Feature quantity_happiness (6) distributions:
+over: 3 | 5.769%
+fine: 21 | 40.38%
+under: 28 | 53.84%
+____________________________________________
+Feature pay_price (7) distributions:
+10: 10 | 17.85%
+12: 2 | 3.571%
+15: 1 | 1.785%
+5: 7 | 12.5%
+7: 14 | 25.0%
+6: 7 | 12.5%
+9: 4 | 7.142%
+8: 11 | 19.64%
+
+Additional stats for pay_price: 
+Total entries : 56
+Mean : 7.82142857143
+Mode : 7
+____________________________________________
+Feature buy_if_added_options (8) distributions:
+yes: 57 | 87.69%
+indifferent: 7 | 10.76%
+no: 1 | 1.538%
+____________________________________________
+Feature sandwich_freq (9) distributions:
+always: 15 | 25.42%
+sometimes: 37 | 62.71%
+never: 7 | 11.86%
+____________________________________________
+Feature salad_freq (10) distributions:
+always: 9 | 16.98%
+sometimes: 30 | 56.60%
+never: 14 | 26.41%
+____________________________________________
+Feature soup_freq (11) distributions:
+always: 2 | 4.081%
+never: 28 | 57.14%
+sometimes: 19 | 38.77%
+____________________________________________
+Feature rice_freq (12) distributions:
+always: 13 | 25.0%
+never: 14 | 26.92%
+sometimes: 25 | 48.07%
+____________________________________________
+Feature noodle_freq (13) distributions:
+always: 10 | 19.23%
+sometimes: 21 | 40.38%
+never: 21 | 40.38%
+____________________________________________
+Feature pasta_freq (14) distributions:
+always: 10 | 18.51%
+sometimes: 22 | 40.74%
+never: 22 | 40.74%
+____________________________________________
